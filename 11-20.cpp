@@ -7,7 +7,7 @@ int main() {
     
     
     while ( x <= 10) {
-   if ( x %2 ! = 0 ) 
+   if ( x %2 != 0 ) 
         cout << x  << " ";
         x++;
         
